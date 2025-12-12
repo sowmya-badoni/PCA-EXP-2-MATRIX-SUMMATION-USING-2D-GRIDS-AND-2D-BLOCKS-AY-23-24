@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>NAME: ARJUN N S</h3>
-<h3>REGISTER NO: 212223230020</h3>
+<h3>NAME: SOWMYA BADONI S</h3>
+<h3>REGISTER NO: 212223230211</h3>
 <h3>DATE: 11.09.25</h3>
 <h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
